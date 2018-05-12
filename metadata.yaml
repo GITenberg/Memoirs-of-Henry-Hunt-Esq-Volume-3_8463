@@ -1,4 +1,8 @@
 _repo: Memoirs-of-Henry-Hunt-Esq-Volume-3_8463
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hunt, Henry
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2761
     wikipedia: http://en.wikipedia.org/wiki/Henry_Hunt_(politician)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8463#Memoirs-of-Henry-Hunt-Esq-Volume-3
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
